@@ -18,3 +18,22 @@
   if( a % 2 == 0)
   console.log(a)}
 
+
+
+- var cond = false;
+if (cond == true){ 
+console.log("this variable is true");}
+else{ console.log("this variable is false);}
+
+
+
+- var n = 100;
+
+if (n == 100) {
+  console.log('This is a special number!');
+} else
+if (n < 1000 && n % 10 == 0) {
+  console.log('This is a regular number');
+} else {
+  console.log('This number is multiple of 10');
+}
