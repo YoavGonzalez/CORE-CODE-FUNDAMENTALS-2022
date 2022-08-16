@@ -13,7 +13,7 @@
 - 10100 01 1111100101   /// 22/01/1995
 
 ## WEEK 1 --- THURSDAY
-
+'''javascrypt
 - for(let a = 0; a < 100; a++){
   if( a % 2 == 0)
   console.log(a)}
@@ -40,6 +40,8 @@ if (n < 1000 && n % 10 == 0) {
 
 
 ## WEEK 2 --- MONDAY
+'''javascrypt
+
 - function multiply(a, b) {
   let c = a * b;
   return c;
