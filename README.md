@@ -37,3 +37,12 @@ if (n < 1000 && n % 10 == 0) {
 } else {
   console.log('This number is multiple of 10');
 }
+
+
+## WEEK 2 --- MONDAY
+- function multiply(a, b) {
+  let c = a * b;
+  return c;
+}
+
+- 
